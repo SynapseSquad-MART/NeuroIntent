@@ -115,3 +115,6 @@ Synapse Squad
 M.Tech Bioinformatics and Artificial Intelligence
 
 ---
+PROJECT DEMONSTRATION VIDEO
+[CLick Here](https://github.com/user-attachments/assets/43d741da-b812-40e9-9355-8996db49bd93)
+
